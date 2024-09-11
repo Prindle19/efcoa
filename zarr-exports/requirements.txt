@@ -1,0 +1,7 @@
+absl-py
+apache-beam[gcp]=2.58.1
+earthengine-api
+gcsfs
+xarray
+xarray-beam
+xee
